@@ -5,3 +5,20 @@ nav#list ul {
     overflow: hidden;
     color: cyan;
 }
+
+nav#list ul li {
+    float: left;
+    margin: 0 15px;
+}
+
+nav#list ul li a{
+    display: block;
+    background-color: azure;
+    color: beige;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+}
