@@ -2,13 +2,17 @@ nav#list ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
     overflow: hidden;
     color: cyan;
 }
 
 nav#list ul li {
     float: left;
-    margin: 0 15px;
+    width: 32.75%;
+    margin: .5% .25% .5% .25%;
+    text-align: center;
 }
 
 nav#list ul li a{
