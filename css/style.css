@@ -4,7 +4,8 @@ html, body{
 }
 
 nav#list ul {
-    width: 100%;
+    border: solid #ccc;
+    border-width: 1px 0;
     list-style-type: none;
     padding: 0;
     margin: 0;
