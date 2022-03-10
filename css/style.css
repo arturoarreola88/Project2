@@ -18,10 +18,11 @@ nav#list ul li {
     width: 25%;
     margin: .5% .15% .5% .15%;
     text-align: center;
+    display: inline;
 }
 
 nav#list ul li a{
-    display: block;
+    display: inline-block;
     background-color: red;
     color: black;
     font-weight: bold;
