@@ -7,10 +7,9 @@ nav#list ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
     overflow: hidden;
-    color: black;
 }
 
 nav#list ul li {
