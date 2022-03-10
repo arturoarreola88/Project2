@@ -8,7 +8,7 @@ nav#list ul {
     padding: 0;
     margin: 0;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     overflow: hidden;
 }
@@ -44,8 +44,6 @@ p {
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 22px;
 }
-
-
 
 
 img{
