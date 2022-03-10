@@ -10,7 +10,7 @@ nav#list ul {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     overflow: hidden;
-    color: cyan;
+    color: black;
 }
 
 nav#list ul li {
@@ -37,6 +37,8 @@ nav#list ul li a:hover{
     color: yellow;
     border-radius: 20px;
 }
+
+
 
 p {
 	color: black;
