@@ -12,7 +12,6 @@ nav#list ul {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     overflow: hidden;
-    position: relative;
     left: 50%;
 }
 
@@ -20,7 +19,6 @@ nav#list ul li {
     float: left;
     margin: 0 15px;
     display: inline;
-    position: relative;
     right: 50%;
 }
 
