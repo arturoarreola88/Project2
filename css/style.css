@@ -15,8 +15,7 @@ nav#list ul {
 
 nav#list ul li {
     float: left;
-    width: 25%;
-    margin: .5% .15% .5% .15%;
+   margin: 0 15px;
     text-align: center;
     display: inline;
 }
@@ -29,8 +28,8 @@ nav#list ul li a{
     text-decoration: none;
     text-align: center;
     width: 80px;
-    padding: 0px 10px 0px 10px;
-    border-radius: 1px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
 }
 
 nav#list ul li a:hover{
@@ -40,7 +39,7 @@ nav#list ul li a:hover{
 }
 
 p {
-	color: #e5e5e5;
+	color: black;
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 22px;
 }
