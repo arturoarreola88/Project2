@@ -26,6 +26,7 @@ nav#list ul li a{
     font-weight: bold;
     text-decoration: none;
     text-align: center;
+    padding: 10px;
 }
 
 nav#list ul li a:hover{
