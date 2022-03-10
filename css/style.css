@@ -4,7 +4,8 @@ html, body{
 }
 
 nav#list {
-    text-align: center;
+    margin: 0 auto;
+    display: table;
 }
 
 nav#list ul {
@@ -34,8 +35,8 @@ nav#list ul li a{
 }
 
 nav#list ul li a:hover{
-    background-color: maroon;
-    color: yellow;
+    background-color: turquoise;
+    color: peachpuff;
     border-radius: 20px;
 }
 
