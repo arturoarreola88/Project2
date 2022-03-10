@@ -4,19 +4,15 @@ html, body{
 }
 
 nav#list ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 900;
-    overflow: hidden;
 }
 
 nav#list ul li {
     float: left;
    margin: 0 15px;
-    text-align: center;
     display: inline;
+    
 }
 
 nav#list ul li a{
