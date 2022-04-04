@@ -45,6 +45,21 @@ nav#list ul li a:hover{
 img{
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 5px;
-    width: 300px;
+    padding: 2%;
+    width: 26%;
+    margin: 1%;
+    border-radius: 2em;
+    padding: 1em;
+    justify-content: center;
 }
+
+  iframe {
+    width: 80% !important;
+    justify-content: center;
+  }
+  
+  @media (max-width: 768px) {
+    iframe {
+    width: 95% !important;
+  }
+  }
